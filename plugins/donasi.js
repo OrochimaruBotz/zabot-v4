@@ -10,7 +10,7 @@ let duit = `*────── 「 DONATE 」 ──────*
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 ┌〔 Donasi • Emoney 〕
-├🏧 081227144597 (OVO/Dana/GoPay)
+├🏧 088804947282 (OVO/Dana/GoPay)
 └────
 Berapapun donasi kalian akan sangat berarti 👍
 
